@@ -5,4 +5,4 @@ This program can track a tennis ball on video, and provide insight about the bal
 Demo of program in action: [add]
 
 
-Currently only supports webcam, in future I'm aiming to have it support tennis clips.
+Currently only supports webcam, in future I'm aiming to have it support tennis match clips.
